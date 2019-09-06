@@ -1,7 +1,7 @@
 ---
 title: "Pcomp assignment 1"
 date: 2019-09-06T17:07:58-04:00
-draft:  true
+draft:  false
 ---
 # My main title
 
